@@ -1,2 +1,5 @@
 # hello-world
-First test of making a repository 
+
+Eerste test van het maken van een repository
+
+Mijn naam is Brian en dit is mijn beginnende stap in GitHub
